@@ -51,7 +51,7 @@
   ],
   "products": [
     {
-      "id": 2,
+      "id": 1,
       "name": "Buzzo verde",
       "type": "Buzo",
       "price": 18000,
@@ -64,7 +64,7 @@
       "amountInCart": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Remera",
       "type": "Remera",
       "price": 12000,
@@ -77,7 +77,7 @@
       "amountInCart": 3
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Remera",
       "type": "Remera",
       "price": 13000,
@@ -90,7 +90,7 @@
       "amountInCart": 2
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Campera",
       "type": "Campera",
       "price": 19000,
