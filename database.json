@@ -48,7 +48,7 @@
       "color": "Verde",
       "size": "L",
       "amount": 1,
-      "url": "https://imgur.com/R6VnnLq",
+      "url": "https://i.imgur.com/hGBM1JV.jpg",
       "createdAt": 1699030183225,
       "modifiedAt": 1699032431731
     },
@@ -60,19 +60,19 @@
       "color": "Negro",
       "size": "XL",
       "amount": 1,
-      "url": "https://imgur.com/rJdD0Ea",
+      "url": "https://i.imgur.com/rJdD0Ea.jpg",
       "createdAt": 1699030393866,
       "modifiedAt": 1699032592135
     },
     {
       "id": 3,
-      "name": "Campera",
+      "name": "Campera blanca",
       "type": "Campera",
       "price": 19000,
       "color": "Blanco",
       "size": "L",
       "amount": 1,
-      "url": "https://imgur.com/d4fTiFv",
+      "url": "https://i.imgur.com/d4fTiFv.jpg",
       "createdAt": 1699030485556,
       "modifiedAt": 1699032668373
     },
@@ -84,7 +84,7 @@
       "color": "Negro",
       "size": "M",
       "amount": 10,
-      "url": "https://imgur.com/AmxpGKN",
+      "url": "https://i.imgur.com/AmxpGKN.jpg",
       "createdAt": 1699565953977,
       "modifiedAt": 1699565953977
     }
