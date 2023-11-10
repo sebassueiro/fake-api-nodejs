@@ -20,23 +20,33 @@
     },
     {
       "id": 3,
-      "firstName": "Sebastian",
-      "lastName": "Sueiro",
-      "email": "seba@gmail.com",
-      "password": "123",
-      "userType": "superAdmin",
-      "createdAt": 1698511851953,
-      "modifiedAt": 1698511851953
+      "firstName": "Kizzie",
+      "lastName": "Shama",
+      "username": "kshama2",
+      "email": "kshama2@prlog.org",
+      "password": "kjU6qK1Bm",
+      "avatar": "https://robohash.org/voluptatemdebitiset.png?size=50x50&set=set1",
+      "gender": "Male",
+      "phone": "676-983-4977",
+      "birthday": "1997-09-29",
+      "status": false,
+      "createdAt": 1615745961000,
+      "modifiedAt": 1615976361000
     },
     {
       "id": 4,
-      "firstName": "Roberto",
-      "lastName": "Sanchez",
-      "email": "rs@gmail.com",
-      "password": "123",
-      "userType": "client",
-      "createdAt": 1699032645156,
-      "modifiedAt": 1699032645156
+      "firstName": "Tremayne",
+      "lastName": "Americi",
+      "username": "tamerici3",
+      "email": "tamerici3@skype.com",
+      "password": "xbNRPGk",
+      "avatar": "https://robohash.org/rerumoccaecatiprovident.png?size=50x50&set=set1",
+      "gender": "Genderfluid",
+      "phone": "548-721-4661",
+      "birthday": "2004-10-01",
+      "status": false,
+      "createdAt": 1610281342000,
+      "modifiedAt": 1619283693000
     },
     {
       "id": 5,
@@ -51,86 +61,135 @@
   ],
   "products": [
     {
+      "id": 1,
+      "name": "Pork Salted Bellies",
+      "price": 442,
+      "quantity": 16,
+      "thumbnail": "http://dummyimage.com/213x100.png/dddddd/000000",
+      "status": true,
+      "createdAt": 1610632995000,
+      "modifiedAt": 1615620960000
+    },
+    {
       "id": 2,
-      "name": "Buzzo verde",
-      "type": "Buzo",
-      "price": 18000,
-      "color": "Verde",
-      "size": "L",
-      "amount": 1,
-      "url": "https://lh3.googleusercontent.com/pw/ADCreHffgeGvDP1yVCrBFHjlkn6RsHdv23VhATgtr4ZBjMlhT4_t7NkmCI7Po2Cvy1UaGm9MzqBylianKDO6g3RzILZ1gRJA3dwNQ5gCw0G8xVpqErONXwo-Nc38t_R_jzZX0BeqAjxzZzC3BcUSa9Qe1aZ8G9e74h2jckUJJDA6C-ZINUZ-66QBp1WOaBhA27SOdw771dwI9mYbYpwH4X8dJ4epNbHUa_ManthGM4bL4UCYTknGDiFYRCdRAhzmge8ozPajncJOfB2lf_7MnW8Wzm2mF_7MjqeCJ8pMbWckxqpSMJYNLFq4ZKdDvt34GhxIdczE-GDOW2rHZ09xxjfSVi2Bh8hc2-uqEGMW6felI3Kvf3MWXlakdBS4neN3f0d_iJzQUx0YFP4vb-CtV0bfvv5qPSFxShUWBEgZPpT1j8Hy9ICbie1bLSVc5a1mA2c9odjrT0ckLnS3VoIykpEbHz_hbBUSzkr1s9Ek_Zmzip9FThmtTnSy_uOonaAs7n7Jxtua6px5mbpoWvAVElrmiuokUvaWJ6FTwoNySbWfqyVEEy4KrnDCSq0BhxjtuL0jd3xgecBBNCqnTf64I_eyim4pyoyuh37_n5ks85A9Z83OkAYPGPgYmB0ZGQmUNS_6OOLcbv53Zsajo2WEEnghNOSM2To4aBfZIvCKaA96DCfWhWI5rvmo9FHi6-Erda0TiYIPQoxWeerKFJeW82YnSaRqe1DA4os_pmJir2pRDzrWRSyAVnLPPpLHEAVPHab4CpPlevT2JOXh805UW19vJsOQ-I_BSeHNu6_K1KNXijjtCsQ3NKVlP1Eke9e5_i232jjamjLKMOWFnLelWO2R5gFpXSOl6sy0u1yc0Pck8SGGpSExva0yv_yA-5jo48ewgJ2a_uEmjJQMUnKsUyRplho5KwDpIpL2FsoY6tYO9riPh7uxo-fff1YQGbx4=w226-h223-s-no-gm?authuser=0",
-      "createdAt": 1699030183225,
-      "modifiedAt": 1699032431731,
-      "amountInCart": 1
+      "name": "Grapes - Black",
+      "price": 893,
+      "quantity": 22,
+      "thumbnail": "http://dummyimage.com/151x100.png/ff4444/ffffff",
+      "status": false,
+      "createdAt": 1615796160000,
+      "modifiedAt": 1615796160000
     },
     {
       "id": 3,
-      "name": "Remera",
-      "type": "Remera",
-      "price": 12000,
-      "color": "Rojo",
-      "size": "L",
-      "amount": 5,
-      "url": "https://lh3.googleusercontent.com/pw/ADCreHe8MWaOWyhX0C7ZITlSrrgv8_eITNj85XqfvFGiUOZGJnZ1imylVmPNY_o3BkWnn0piFHeW6PjggStM-13zqpH3TOSCFJbnX9FXyonDw_hOrGhhI3Q93iQRZmWibGHbp4q57Tkqkc3ux0sTqKSNyqPUTEkky6SfT2QIHvb-aUmtHIQnitcFpmxs1Zr_1852i7Wpd0s-v_w_Qmlt5IE-3y_c2cb6GZQszDhg28-aHSheelo7F5bdXethDjQlieuXlQ8xdQIpB2icz7XGn29evNZXDnFJi_8wzbj9NxwJDExGgN-qrw9TBzNl4sQiOE9KPTYHPXVnOf7RoHwKjLxtnURMoYo1sudROqzaTuOBewCeI18eFD29uqjqmnu6o8lQ1wTBv2HIS5omwGaRcdnhb4sbrS3VAs0KRAWx3InShyyry6cAtwi7Ppp0SZnMxvM6hGP3c5GfGt9BrHag2GAGc73MI5ofF2tXnn5ep0VWkV0JXgUKXTX_YxZTCdH-4BlLtBFbn_7sy32cmRzz1JZ8TtTkGIfHymlXRLX_J6KnybJCpYB_z4LcaCETgN0A23Qwo95nfk0A2wvanVadrILBi-pKpiiuJELy2fnGZjJe-YlpZfxBG8WCIIoiElUeymEY8Sp-PMtgppxMGl8Vb6h5UKzNmbRpyXUNkaqummr1yE8lKc_qJvVmgzuNtKb647AaBa2je75zKt9YEl-3-0ZrRG5gmEfCLsmnNIArcZZEEIY7gDfr9U_jF839aK9phAioOLXl6RfwCu5VVDzlsCc3jvMRqxQ0rq_dRiaIW6CHaNRPp50RjpJ4q4q7oOLVFK-NYHUt4C_UE91vaMphktf5TFaasyComdX4UNDH5BwyMTqfBALI7ZcjplAGxxv4Bq-XjbzL8vxxdmSBvhQo5kC4mS4iVqADL8tr4L-YvuuCOiReT3cnSw_13Vd4NopV=w203-h249-s-no-gm?authuser=0",
-      "createdAt": 1699030330400,
-      "modifiedAt": 1699032790172,
-      "amountInCart": 3
+      "name": "Nantucket - 518ml",
+      "price": 693,
+      "quantity": 41,
+      "thumbnail": "http://dummyimage.com/125x100.png/dddddd/000000",
+      "status": false,
+      "createdAt": 1614190320000,
+      "modifiedAt": 1614190320000
     },
     {
       "id": 4,
-      "name": "Remera",
-      "type": "Remera",
-      "price": 13000,
-      "color": "Negro",
-      "size": "XL",
-      "amount": 1,
-      "url": "https://lh3.googleusercontent.com/pw/ADCreHfi6ZbFthCVJJpH353fpFP8cz4FSd5nzP5xBA3M77hpNSFqexw3K8jClMEAVrvgHh0JVWexz4GbK5lkef5O_IeqIwKR1sJN6kmiWaIQLqFS3C-gQahROvAEUbn0mxvzZ00P-vWurblLY4vrGvbYmGeajzbkdFR06ot4YFIIYSyhBrPhFp7kclJDY3nlJgcXBKG58te7QvZk7rySACq-Nf3jRXFr561DZGEJ0vIEKiBwt6Y2UpcOB84rFVLzaWlq68CLgnLxHD7tb_mP84lRyiknFDHVxBJ6xtA-5HfZRDiG_oqgQv9MUbcIM3ceItQfKqEGqYMYXv9SSDcnP34a1ZX0ZHLZnSeiZPMGoq-tMOl7Lrfpf13UVae58QtnhFyufSPw-Xh0gwxy3j9vaYMY4KTG_U2qo2Ha8DkY1bCgmM2iGkmzQdp5wSfrIF0V1cw8-njKLk5f8F3_j97SnJA2AOnC4sLEFL_Qlmy48tuA4W1VSgLSR64ayJWkDEwW_HUjq8wGSB7Ky9Mgm4g40f6-_5fhvdacVdyk-9gny6VWmfmFBNeiE4sq1Qg82VQhqGfZq7_WhmY5yhAlykFmH4moeZpLQ0SdyjbY-8EE7AC_gLmn7D8n9F9z88KAdf8NKV07y0hj6DSPYi8LbzUOrYzespiIlFzEXRFd2XzVPPfvP9cfcZXlImjr-246IGdROlsB0Wjr-sIseqNHnYEWkuvVDqonpyeme-CV6E3_PEtLJG4CsIuGuME-t1H3e3sBlnK9EdlT4EiZ9znQk2ujzC9wXKmFKlkFmq3-a_qNAVTYF6q4VTNwjszE_saal6Wo2luivK2F2z9o3_3faQ49c5zNUjzw29elksFRe1WFDOIi7q2j3T3tmiccU9XPzo3_ZXLucSSbURmOiMKIMlVsO1czd94Ph5iqMg8fVAgvO6v9AWPF5q5afj1kzKZjn4UU=w240-h244-s-no-gm?authuser=0",
-      "createdAt": 1699030393866,
-      "modifiedAt": 1699032592135,
-      "amountInCart": 2
+      "name": "Onions - White",
+      "price": 472,
+      "quantity": 67,
+      "thumbnail": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+      "status": false,
+      "createdAt": 1609751340000,
+      "modifiedAt": 1617525900000
     },
     {
       "id": 5,
-      "name": "Campera",
-      "type": "Campera",
-      "price": 19000,
-      "color": "Blanco",
-      "size": "L",
-      "amount": 1,
-      "url": "https://lh3.googleusercontent.com/pw/ADCreHdnkKZ4XzMMp6_35_G5RoNMaw6YrA4FMZlMzCw8FXi0TkwKZm4QNhwApBd56A4Wv74Lg7kKbo1d8baJxN6ShU7t8Brwlcr_p0mXFgd5G-J8-9RY7WJrzuPneuhdItx7YZXWfLieU6xqDU8SR1X5KwKjzAFgHrzW27W39P4zp-R9dtucmKjskmkRGLevKbomflack4TIy0iaKwLQpQuahHCR6ew_6wxZMj4Mllmnsh-aJ6CBBKFWjaVhK0IlsOSR_NePfvctdz4JAAVUwtljy6Vu4G7c2Jmbd30hhDwErTRMMyPMIWvSZpsx7r7yT7QLQUmDLZBzwosr_IC9KSK3-kFlOfXazF2_SJZs9WcOxos1lSUxE06-PS97GfHSnRXj2uTa50Z3_PAQVq32PEQ9WiW-ryx2rFSRWRSgJ6tMwrm2KIBTIotNlRYuMhX5KvvRqEE_4zHE7vXoOLOUwPl3D9-fAAju75DP1nHfsdSgnQv7fTYgWvDNQ0CzVgEcAqWd_OAFCbxMy7r-vhJaVU_1ZREiOzpF32IIJtB_tNrD0kK_jSDja8tS2O97NN2yns3VAyCFCYov3X0lC0SS-HsmWIH9qj0aQ04lFcDp-CZEASZ4H_VXAm8RTa8nIbJRSJLP9yMML79zofWKrD9ffjYA0j00dtZ6WDDwH6lagPfjfHuuG9qRK7FffEq3JOXwM9uHePFcHWhBUQUc0tlP8IEbixjzRUgZWsc8yk4ZYaQ2GSxYEnkwL_exhhKxiZlRxkp3CVMzul_JC_-OtViedoq7BOnjnYegd9I31lJsd4d-UgHqNTzZMry3uEeB4tSgIUMpi8xxc8qEbjIb_H_5aGDE8FPpkt_3_JewGmQG_AggzKiTqArQhTko02HUrs0DW_0R8n6LHqwWvosZ-n_czTJHPExKLRek8yg7YOr-Dn9MJUwJBWBDPLrrNNclO23U=w389-h500-s-no-gm?authuser=0",
-      "createdAt": 1699030485556,
-      "modifiedAt": 1699032668373,
-      "amountInCart": 2
+      "name": "Lamb - Whole, Fresh",
+      "price": 157,
+      "quantity": 83,
+      "thumbnail": "http://dummyimage.com/160x100.png/dddddd/000000",
+      "status": true,
+      "createdAt": 1620154080000,
+      "modifiedAt": 1620154080000
+    },
+    {
+      "id": 6,
+      "name": "Carrots - Purple, Organic",
+      "price": 816,
+      "quantity": 37,
+      "thumbnail": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
+      "status": false,
+      "createdAt": 1619270940000,
+      "modifiedAt": 1619443380000
+    },
+    {
+      "id": 7,
+      "name": "Bag - Regular Kraft 20 Lb",
+      "price": 157,
+      "quantity": 60,
+      "thumbnail": "http://dummyimage.com/156x100.png/cc0000/ffffff",
+      "status": false,
+      "createdAt": 1614098400000,
+      "modifiedAt": "2021-04-16"
+    },
+    {
+      "id": 8,
+      "name": "Flour - Bran, Red",
+      "price": 970,
+      "quantity": 40,
+      "thumbnail": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
+      "status": false,
+      "createdAt": 1617954000000,
+      "modifiedAt": 1619964420000
+    },
+    {
+      "id": 9,
+      "name": "Bread - Bistro Sour",
+      "price": 112,
+      "quantity": 77,
+      "thumbnail": "http://dummyimage.com/147x100.png/dddddd/000000",
+      "status": false,
+      "createdAt": 1612357500000,
+      "modifiedAt": 1614956760000
+    },
+    {
+      "id": 10,
+      "name": "Soup - Campbells Bean Medley",
+      "price": 353,
+      "quantity": 40,
+      "thumbnail": "http://dummyimage.com/203x100.png/ff4444/ffffff",
+      "status": false,
+      "createdAt": 1615146960000,
+      "modifiedAt": 1615146960000
     }
   ],
-  "sales": [
+  "books":[
     {
       "id": 1,
-      "email": "javi@gmail.com",
-      "cart": [
-        {
-          "productId": 4,
-          "amountProducts": 2,
-          "subTotalPrice": 26000
-        }
-      ],
-      "totalPrice": 26000,
-      "createdAt": 1699032592080,
-      "modifiedAt": 1699032592080
+      "title": "100 años de soledad",
+      "author": "Gabriel García Marquez",
+      "dateRead": "2021-08-12",
+      "pageCount": 410
     },
     {
       "id": 2,
-      "email": "rs@gmail.com",
-      "cart": [
-        {
-          "productId": 5,
-          "amountProducts": 2,
-          "subTotalPrice": 38000
-        }
-      ],
-      "totalPrice": 38000,
-      "createdAt": 1699032668319,
-      "modifiedAt": 1699032668319
+      "title": "Todos los fuegos el fuego",
+      "author": "Julio Cortazar",
+      "dateRead": "2020-06-11",
+      "pageCount": 197
+    },
+    {
+      "id": 3,
+      "title": "Asesinato en el Orient Express",
+      "author": "Agatha Christie",
+      "dateRead": "2021-05-09",
+      "pageCount": 256
+    },
+    {
+      "id": 4,
+      "title": "Las dos torres",
+      "author": "J.R.R Tolkien",
+      "dateRead": "2020-03-22",
+      "pageCount": 352
     }
+
   ]
 }
