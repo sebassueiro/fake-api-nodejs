@@ -39,6 +39,53 @@
       "modifiedAt": 1699032740804
     }
   ],
-  "products": [],
+  "products": [{
+    "id": 1,
+    "name": "Remera roja",
+    "type": "Remera",
+    "price": 12000,
+    "color": "Rojo",
+    "size": "L",
+    "amount": 5,
+    "url": "https://i.imgur.com/AT0Iozg.png",
+    "createdAt": 1699623547227,
+    "modifiedAt": 1699623547227
+  },
+  {
+    "id": 2,
+    "name": "Buzo verde",
+    "type": "Buzo",
+    "price": 19000,
+    "color": "Verde",
+    "size": "XL",
+    "amount": 6,
+    "url": "https://i.imgur.com/hGBM1JV.jpg",
+    "createdAt": 1699623590505,
+    "modifiedAt": 1699623590505
+  },
+  {
+    "id": 3,
+    "name": "Pantalon negro",
+    "type": "Pantalon",
+    "price": 17000,
+    "color": "Negro",
+    "size": "M",
+    "amount": 9,
+    "url": "https://i.imgur.com/AmxpGKN.jpg",
+    "createdAt": 1699623622068,
+    "modifiedAt": 1699623622068
+  },
+  {
+    "id": 4,
+    "name": "Caampera blanca",
+    "type": "Campera",
+    "price": 19000,
+    "color": "Blanco",
+    "size": "S",
+    "amount": 6,
+    "url": "https://i.imgur.com/d4fTiFv.jpg",
+    "createdAt": 1699623652012,
+    "modifiedAt": 1699623652012
+  }],
   "sales": []
 }
